@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/blockchaincyberpunk1/blockchain-weather-app-frontend.git/static/css/main.22f0de79.css",
-    "main.js": "/blockchaincyberpunk1/blockchain-weather-app-frontend.git/static/js/main.7d4f37a9.js",
-    "static/js/453.8ab44547.chunk.js": "/blockchaincyberpunk1/blockchain-weather-app-frontend.git/static/js/453.8ab44547.chunk.js",
-    "index.html": "/blockchaincyberpunk1/blockchain-weather-app-frontend.git/index.html",
-    "main.22f0de79.css.map": "/blockchaincyberpunk1/blockchain-weather-app-frontend.git/static/css/main.22f0de79.css.map",
-    "main.7d4f37a9.js.map": "/blockchaincyberpunk1/blockchain-weather-app-frontend.git/static/js/main.7d4f37a9.js.map",
-    "453.8ab44547.chunk.js.map": "/blockchaincyberpunk1/blockchain-weather-app-frontend.git/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/blockchain-weather-app-frontend/static/css/main.22f0de79.css",
+    "main.js": "/blockchain-weather-app-frontend/static/js/main.293f2ac2.js",
+    "static/js/453.8ab44547.chunk.js": "/blockchain-weather-app-frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/blockchain-weather-app-frontend/index.html",
+    "main.22f0de79.css.map": "/blockchain-weather-app-frontend/static/css/main.22f0de79.css.map",
+    "main.293f2ac2.js.map": "/blockchain-weather-app-frontend/static/js/main.293f2ac2.js.map",
+    "453.8ab44547.chunk.js.map": "/blockchain-weather-app-frontend/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22f0de79.css",
-    "static/js/main.7d4f37a9.js"
+    "static/js/main.293f2ac2.js"
   ]
 }
