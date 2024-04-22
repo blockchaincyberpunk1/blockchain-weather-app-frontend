@@ -31,7 +31,7 @@
 - **MetaMask**: As the Ethereum wallet provider.
 
 
-<p>Deployed website: <strong><a href="http://blockchaincyberpunk1.github.io/blockchain-weather-app">http://blockchaincyberpunk1.github.io/blockchain-weather-app</a></strong>
+<p>Deployed website: <strong><a href="https://blockchaincyberpunk1.github.io/blockchain-weather-app-frontend">https://blockchaincyberpunk1.github.io/blockchain-weather-app-frontend/</a></strong>
 
 <p align="center">
   <img alt="Weather Blockchain App" [Screenshot] src="./public/screenshot.png"><br>
