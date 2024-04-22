@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Weather Blockchain App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  [![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&logo=appveyor)](https://opensource.org/license/MIT)
 
-## Available Scripts
+  ![GitHub repo size](https://img.shields.io/github/repo-size/blockchaincyberpunk1/blockchain-weather-app)
+![GitHub top language](https://img.shields.io/github/languages/top/blockchaincyberpunk1/blockchain-weather-app)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table Of Content
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Description](#description)
+- [Technology](#technology)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tools and Libraries](#tools-and-libraries)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [License](#license)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Description
 
-### `npm run build`
+  The Weather Blockchain App is a decentralized application (DApp) that allows users to check and update the current weather condition via Ethereum blockchain. It leverages smart contracts for reading and writing data, ensuring transparency and security. This project serves as a practical introduction to building DApps with React and Ethereum.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technology
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React**: For building the user interface.
+- **Ethers.js**: A library to interact with the Ethereum blockchain.
+- **MetaMask**: As the Ethereum wallet provider.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p>Deployed website: <strong><a href="http://blockchaincyberpunk1.github.io/blockchain-weather-app">http://blockchaincyberpunk1.github.io/blockchain-weather-app</a></strong>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+  <img alt="Weather Blockchain App" [Screenshot] src="./public/screenshot.png"><br>
+Weather Blockchain App
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Installation
 
-## Learn More
+To run this project, follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/blockchaincyberpunk1/blockchain-weather-app.git
+   cd frontend
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Tools and Libraries
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **React**: JavaScript library for building user interfaces.
+- **ethers.js**: A complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- **dotenv**: Loads environment variables from a `.env` file into `process.env`.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Usage
+ 
+To use the app:
 
-### Making a Progressive Web App
+1. Ensure MetaMask is installed and logged in.
+2. Visit the application URL (usually http://localhost:3000).
+3. Interact with the application to check or update the weather.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Contribution
+ 
+Contributions are welcome! Please feel free to submit any issues or pull requests.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Feel free to reach out to me on my email:
+thepolyglot8@gmail.com
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+
+[![License](https://img.shields.io/static/v1?label=Licence&message=MIT&color=blue)](https://opensource.org/license/MIT)
+
+
